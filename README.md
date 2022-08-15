@@ -20,6 +20,38 @@
 
 - 📫 How to reach me **ishahin56@gmail.com, Skype: md.shahidul.islam17**
 
+<h3>Here are my key skills... </h3>
+
+  <strong>WordPress</strong>
+- 📫 Theme Development
+- 📫 Responsive Design Implementation
+- 📫 Page Builder Integration
+- 📫 Multiple pages Website Development
+
+<strong>ReactJs/NextJs</strong>
+- 📫 Single Page Application
+- 📫 Responsive Design Implementation
+- 📫 Web Application Design Implementation
+- 📫 Web Application Admin Panel Design
+- 📫 Ecommerce website Front-End Design Implementation
+- 📫 CSS Frameworks Integration
+- 📫 Backend Integration
+
+<strong>HTML/CSS3/Sass/JavaScript</strong>
+- Web Animation Implementation
+- SVG Logo/Image Animation Implementation
+- Responsive Web Design Implementation
+- Landing Page Design
+- Web Design With Bootstrap Framework
+- Web Admin Pannel Design Using Sass
+
+<strong>Online Tools</strong>
+- Figma, 
+- Zeplin, 
+- Invision, 
+- Adobe Xd/Photoshop/Illustrator
+- And others..
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shahidul172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahidul172" height="30" width="40" /></a>
