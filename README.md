@@ -23,19 +23,19 @@
 <h3>Here are my key skills... </h3>
 
   <strong>WordPress</strong>
-- 📫 Theme Development
-- 📫 Responsive Design Implementation
-- 📫 Page Builder Integration
-- 📫 Multiple pages Website Development
+- Theme Development
+- Responsive Design Implementation
+- Page Builder Integration
+- Multiple pages Website Development
 
 <strong>ReactJs/NextJs</strong>
-- 📫 Single Page Application
-- 📫 Responsive Design Implementation
-- 📫 Web Application Design Implementation
-- 📫 Web Application Admin Panel Design
-- 📫 Ecommerce website Front-End Design Implementation
-- 📫 CSS Frameworks Integration
-- 📫 Backend Integration
+- Single Page Application
+- Responsive Design Implementation
+- Web Application Design Implementation
+- Web Application Admin Panel Design
+- Ecommerce website Front-End Design Implementation
+- CSS Frameworks Integration
+- Backend Integration
 
 <strong>HTML/CSS3/Sass/JavaScript</strong>
 - Web Animation Implementation
