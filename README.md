@@ -28,6 +28,7 @@
 - Page Builder Integration
 - Multiple pages Website Development
 
+
 <strong>ReactJs/NextJs</strong>
 - Single Page Application
 - Responsive Design Implementation
@@ -37,6 +38,7 @@
 - CSS Frameworks Integration
 - Backend Integration
 
+
 <strong>HTML/CSS3/Sass/JavaScript</strong>
 - Web Animation Implementation
 - SVG Logo/Image Animation Implementation
@@ -45,12 +47,6 @@
 - Web Design With Bootstrap Framework
 - Web Admin Pannel Design Using Sass
 
-<strong>Online Tools</strong>
-- Figma, 
-- Zeplin, 
-- Invision, 
-- Adobe Xd/Photoshop/Illustrator
-- And others..
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
