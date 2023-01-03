@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Venuz Admin project](https://venuz-admin.netlify.app/)
 
-- 🌱 I’m currently learning **Javascript,**
+- 🌱 I’m currently learning **PHP, Laravel**
 
 - 👯 I’m looking to collaborate on **TradieFlow project**
 
